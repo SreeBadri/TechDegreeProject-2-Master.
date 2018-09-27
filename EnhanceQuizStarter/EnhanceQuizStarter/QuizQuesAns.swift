@@ -25,4 +25,4 @@ class Questions: ViewController {
     }
     
 }
-let questions = Questions()
+//let questions = Questions()
